@@ -1,1 +1,0 @@
-# MIP2024-SuperResolution-Microscope
